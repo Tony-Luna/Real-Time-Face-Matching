@@ -20,8 +20,11 @@ Run the following script to generate face embeddings from a dataset of images:
 ```bash
 python generate_embeddings.py
 Run the script below for real-time face recognition:
+```
+
 ```bash
 python real_time_recognition.py
+```
 
 ## Database Schema
 Refer to Diagram 1 for the SQLite database schema used to store face embeddings.
