@@ -30,11 +30,11 @@ python real_time_recognition.py
 
 ## Database Schema
 Refer to the SQLite database schema used to store face embeddings below:
-![Diagram 1](images/diagram_1.png)
+<img src="images/diagram_1.png" width="400">
 
 ## Face Recognition Workflow
 Refer to the workflow of the real-time face recognition system below:
-![Diagram 2](images/diagram_2.png)
+<img src="images/diagram_2.png" width="400">
 
 ## Contributing
 Feel free to fork this repository, create a new branch, make your changes, and submit a pull request.
