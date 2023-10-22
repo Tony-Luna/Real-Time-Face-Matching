@@ -13,7 +13,7 @@ Clone this repository and install the required packages:
 git clone https://github.com/your-username/real-time-face-recognition.git
 cd real-time-face-recognition
 pip install -r requirements.txt
-```bash
+```
 
 ## Usage
 Run the following script to generate face embeddings from a dataset of images:
