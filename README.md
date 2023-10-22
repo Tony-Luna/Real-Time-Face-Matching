@@ -2,7 +2,7 @@
 
 This project presents a real-time face recognition system built with Python, OpenCV, and PyTorch. It utilizes a pre-trained model from the `facenet_pytorch` library to generate embeddings from face images, which are then stored in a SQLite database. During real-time recognition, the system matches the face embeddings with the stored embeddings to identify individuals.
 
-![Example](images/example.png)
+<img src="images/example.png" width="400">
 
 ## Features
 - Face Embedding Generation
